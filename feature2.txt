@@ -6,4 +6,4 @@ feature2 modified on 09/10.
 
 feature2 modified on 09/10 (in server).
 
-feature2 modified again in local 09/10
+feature2 modified on 09/10 (in server again).
