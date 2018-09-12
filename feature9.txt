@@ -3,7 +3,10 @@ feature9
 performing stash 1
 
 
+Updated upstream
 performing stash 1 for real
 
 performing stash 1 for real.
 
+performing stash 1 for real.
+Stashed changes
