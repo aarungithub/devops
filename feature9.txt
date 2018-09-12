@@ -2,4 +2,8 @@ feature9
 
 performing stash 1
 
+
 performing stash 1 for real
+
+performing stash 1 for real.
+
